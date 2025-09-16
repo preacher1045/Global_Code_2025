@@ -1,4 +1,5 @@
 print("Global Code")
 print("welcome to the training session")
- def Display:
+
+def Display:
     print("HEllo world")
